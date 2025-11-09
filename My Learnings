@@ -8,5 +8,6 @@ Given time 2024-01-19 10:27 was not found in the data (i tried in script too to 
 
 Exercise 4:
 pandas.json_normalize() automatically flattens nested JSON structures into columns (e.g., user.name, address.city, etc.).
+glob- to walk through recursively through directory 
 
 
